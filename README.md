@@ -17,6 +17,12 @@ API automation practice with Cypress — testing REST endpoints directly with `c
 npm install
 ```
 
+Set a GoRest API token as the `GOREST_TOKEN` environment variable before running (get one free at [gorest.co.in](https://gorest.co.in)):
+
+```
+export GOREST_TOKEN=your-token-here
+```
+
 ## Running
 
 ```
